@@ -69,7 +69,7 @@ Students should run the code below, calling each function to see what it does.
 
 *Think-Pair-Warm call*
 * Why does the code not run?
-* What error messages are we getting? Does they give us any clues?
+* What error messages are we getting? Do they give us any clues?
 * How can we get our count to stop resetting every time we run the function?
 * What would we need to change to successfully update the follower count?
 
