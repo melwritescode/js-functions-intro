@@ -42,7 +42,7 @@ Challenge students to design a raffle and generate random raffle numbers for eac
 ### Prediction Exercises–  10-20 min
 Get students comfortable with basic function syntax, how to define and call functions, and understanding that input can be used or manipulated to produce output. 
 
-Type out/copy paste the examples in `predictions-exercises.js` one by one, and have students make predictions on each of them, first in a Think-pair-share format, then thumbs-up/warm-calling as they get more comfortable.
+Type out/copy paste the examples in `prediction-exercises.js` one by one, and have students make predictions on each of them, first in a Think-pair-share format, then thumbs-up/warm-calling as they get more comfortable.
 
 ### Independent Practice –  30 min
 ###### *Hometown Greeting*
