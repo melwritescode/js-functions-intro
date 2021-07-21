@@ -1,7 +1,5 @@
-//** 
-  Prediction exercises
-  Type or copy/paste these problems one at a time, and give students an opportunity to predict the outcome for each one.
-*/
+// Prediction exercises
+// Type or copy/paste these problems one at a time, and give students an opportunity to predict the outcome for each one.
 
 //***************************** 1 **********************************/
 
